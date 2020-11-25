@@ -1,0 +1,7 @@
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\obj\Debug\TESTE_MONITORADOR.csprojAssemblyReference.cache
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\obj\Debug\TESTE_MONITORADOR.csproj.CoreCompileInputs.cache
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\bin\Debug\TESTE_MONITORADOR.exe.config
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\bin\Debug\TESTE_MONITORADOR.exe
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\bin\Debug\TESTE_MONITORADOR.pdb
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\obj\Debug\TESTE_MONITORADOR.exe
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\TESTE_MONITORADOR\obj\Debug\TESTE_MONITORADOR.pdb

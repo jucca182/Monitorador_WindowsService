@@ -1,0 +1,361 @@
+﻿Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Aviso: a origem Service1 não está registrada no computador local.
+Serviço Service1 está sendo removido do sistema...
+Ocorreu uma exceção durante a desinstalação do instalador System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: O serviço especificado não existe como serviço instalado
+Ocorreu uma exceção ao desinstalar. Essa exceção será ignorada e a desinstalação continuará. Mas talvez o aplicativo não seja totalmente desinstalado após a conclusão da desinstalação.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Aviso: a origem Service1 não está registrada no computador local.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Aviso: a origem Service1 não está registrada no computador local.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Criando a origem de EventLog Service1 no log Application...
+Revertendo o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Restaurando o log de eventos para o estado anterior da origem Service1.
+Ocorreu uma exceção durante a fase de reversão do instalador System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: Fonte não encontrada, mas alguns ou todos os logs de evento não puderam ser pesquisados. Logs inacessíveis: Security.
+Ocorreu uma exceção durante a fase de reversão da instalação. Essa exceção será ignorada e a reversão continuará. Mas talvez o computador não reverta totalmente para o estado inicial após a conclusão da reversão.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Desinstalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Removendo a origem do EventLog Service1.
+Serviço Service1 está sendo removido do sistema...
+Serviço Service1 foi removido com êxito do sistema.
+Instalando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+Instalando o serviço Service1...
+Serviço Service1 foi instalado com êxito.
+Criando a origem de EventLog Service1 no log Application...
+Confirmando o assembly 'C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe'.
+Parâmetros afetados são:
+   logtoconsole = 
+   logfile = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.InstallLog
+   assemblypath = C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe

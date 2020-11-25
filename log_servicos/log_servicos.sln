@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "monitorador_servicos", "monitorador_servicos\monitorador_servicos.csproj", "{FFC26C1B-AD9B-4E0D-AB92-42C9768D6BEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TESTE_MONITORADOR", "TESTE_MONITORADOR\TESTE_MONITORADOR.csproj", "{F66287F5-188B-46F4-9372-2C1E822105FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC26C1B-AD9B-4E0D-AB92-42C9768D6BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC26C1B-AD9B-4E0D-AB92-42C9768D6BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC26C1B-AD9B-4E0D-AB92-42C9768D6BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC26C1B-AD9B-4E0D-AB92-42C9768D6BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F66287F5-188B-46F4-9372-2C1E822105FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F66287F5-188B-46F4-9372-2C1E822105FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F66287F5-188B-46F4-9372-2C1E822105FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F66287F5-188B-46F4-9372-2C1E822105FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B792807-A1EC-4642-9893-CC5448E6AFA8}
+	EndGlobalSection
+EndGlobal

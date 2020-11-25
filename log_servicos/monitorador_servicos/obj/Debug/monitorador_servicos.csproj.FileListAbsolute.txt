@@ -1,0 +1,10 @@
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.ProjectInstaller.resources
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.csproj.GenerateResource.cache
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.csproj.CoreCompileInputs.cache
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe.config
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.exe
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\bin\Debug\monitorador_servicos.pdb
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.exe
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.pdb
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.Service1.resources
+C:\Users\juka2\Desktop\C#\windows_service\log_servicos\monitorador_servicos\obj\Debug\monitorador_servicos.csprojAssemblyReference.cache
